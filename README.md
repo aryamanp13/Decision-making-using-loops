@@ -18,6 +18,8 @@ The inner loop completes its iterations.
 
 3.The outer loop increments and continues its iterations until its condition becomes false.
 
+While: A while loop is a control flow statement that repeatedly executes a block of code as long as a given condition is true.
+
 ## Algorithm(for floyd series):
 1.Start
 
