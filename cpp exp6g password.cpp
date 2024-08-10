@@ -12,3 +12,6 @@ cin>>t;
 }
 cout<<"login success";
 }
+/*output
+Enter your pin21062006
+login success */
